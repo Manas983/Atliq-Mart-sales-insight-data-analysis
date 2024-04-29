@@ -1,5 +1,7 @@
-#  Project : Sales Insights of Data Analysis-AtliQ Hardware
+#  Sales Insights of Data Analysis-AtliQ Hardware
 
+## 🔗 Dashboard Link
+[Link to Dashboard](https://lnkd.in/gbs3FbaX)
 
 
 ## Table of Contents:
